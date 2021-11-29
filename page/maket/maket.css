@@ -1,0 +1,143 @@
+body
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v0_3 {
+  width: 100%;
+  height: 898px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_2 {
+  width: 1765px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 44px;
+  left: 56px;
+  overflow: hidden;
+  font-family: Times New Roman;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_3 {
+  width: 1765px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 169px;
+  left: 56px;
+  overflow: hidden;
+   font-family: Times New Roman;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_4 {
+  width: 700px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 295px;
+  left: 60px;
+  overflow: hidden;
+}
+.v1_5 {
+  width: 700px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 410px;
+  left: 60px;
+  overflow: hidden;
+}
+.v1_11 {
+  width: 520px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 410px;
+  left: 1300px;
+  overflow: hidden;
+}
+.v1_9 {
+  width: 520px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 525px;
+  left: 1300px;
+  overflow: hidden;
+}
+.v1_6 {
+  width: 703px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 525px;
+  left: 56px;
+  overflow: hidden;
+}
+.v1_7 {
+  width: 450px;
+  height: 321px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 294px;
+  left: 804px;
+  overflow: hidden;
+}
+.v1_8 {
+  width: 520px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 295px;
+  left: 1300px;
+  overflow: hidden;
+}
+.v1_12 {
+  width: 1765px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  left: 56px;
+  overflow: hidden;
+}
+.v2_2 {
+  width: 1765px;
+  height: 90px;
+  background: rgba(47,230,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 775px;
+  left: 56px;
+  overflow: hidden;
+    font-family: Times New Roman;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+
