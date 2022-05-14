@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gadget> 
+    <gadgget group="LA">
+        <name>Comfy</name>
+        <address>вулиця Халаменюка,7</address>
+        <price>13 999 UAH</price>
+    </gadgget>
+    <gadgget group="LA">
+        <name>Foxtrot</name>
+        <address>вулиця Київська,5а</address>
+        <price>14 999 UAH</price>
+    </gadgget>
+    <gadgget group="LA">
+        <name>Allo</name>
+        <address>вулиця небесної Сотні, 3a</address>
+        <price>13 899UAH</price> 
+    </gadgget>
+    <gadgget group="CA">
+        <name>Comfy</name>
+        <address>вулиця Халаменюка,7</address>
+        <price>29 999 UAH</price>
+    </gadgget>
+    <gadgget group="CA">
+        <name>Foxtrot</name>
+        <address>вулиця Київська,5а</address>
+        <price>29 950 UAH</price>
+    </gadgget>
+    <gadgget group="CA">
+        <name>Allo</name>
+        <address>вулиця небесної Сотні, 3a</address>
+        <price>30 000 UAH</price>
+    </gadgget>
+    <gadgget group="RA">
+        <name>Comfy</name>
+        <address>вулиця Халаменюка,7</address>
+        <price>15 600 UAH</price>
+    </gadgget>
+    <gadgget group="RA">
+        <name>Foxtrot</name>
+        <address>вулиця Київська,5а</address>
+        <price>16 000 UAH</price>
+    </gadgget>
+    <gadgget group="RA">
+        <name>Allo</name>
+        <address>вулиця небесної Сотні, 3a</address>
+        <price>15 899 UAH</price>
+    </gadgget>
+</gadget>
